@@ -60,6 +60,7 @@ const Main = () => {
                     "Brainstorm tem bonding activities for out work retreat."
                   )
                 }
+                
                 className="card"
               >
                 <p>Brainstorm tem bonding activities for out work retreat.</p>
